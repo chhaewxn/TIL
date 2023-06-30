@@ -9,6 +9,7 @@
   - 2023-06-26(Mon) [연관관계_매핑기초](https://github.com/chhaewxn/TIL/blob/main/Springboot/%EC%97%B0%EA%B4%80%EA%B4%80%EA%B3%84_%EB%A7%A4%ED%95%91%EA%B8%B0%EC%B4%88.md)
   - 2023-06-28(Wed) [영속성_관리](https://github.com/chhaewxn/TIL/blob/main/Springboot/%EC%98%81%EC%86%8D%EC%84%B1_%EA%B4%80%EB%A6%AC.md)
   - 2023-06-29(Thu) [영속성 관리_연관 관계 관리](https://github.com/chhaewxn/TIL/blob/main/Springboot/%EC%98%81%EC%86%8D%EC%84%B1%20%EA%B4%80%EB%A6%AC_%EC%97%B0%EA%B4%80%20%EA%B4%80%EA%B3%84%20%EA%B4%80%EB%A6%AC.md)
+  - 2023-06-30(Fri) [빈_생명주기_콜백](https://github.com/chhaewxn/TIL/blob/main/Springboot/%EB%B9%88%20%EC%83%9D%EB%AA%85%EC%A3%BC%EA%B8%B0%20%EC%BD%9C%EB%B0%B1.md)
 
 ## 기타
 - 강연&세미나
