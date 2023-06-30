@@ -11,6 +11,9 @@
   - 2023-06-29(Thu) [영속성 관리_연관 관계 관리](https://github.com/chhaewxn/TIL/blob/main/Springboot/%EC%98%81%EC%86%8D%EC%84%B1%20%EA%B4%80%EB%A6%AC_%EC%97%B0%EA%B4%80%20%EA%B4%80%EA%B3%84%20%EA%B4%80%EB%A6%AC.md)
   - 2023-06-30(Fri) [빈_생명주기_콜백](https://github.com/chhaewxn/TIL/blob/main/Springboot/%EB%B9%88%20%EC%83%9D%EB%AA%85%EC%A3%BC%EA%B8%B0%20%EC%BD%9C%EB%B0%B1.md)
 
+## Deep Learning
+- CS231n
+  - 2023-07-01(Sat) [Lecture1. Introduction and Historical Context](https://github.com/chhaewxn/TIL/blob/main/Deep%20Learning/CS231n/Lecture1.md)
 ## 기타
 - 강연&세미나
   - 2023-06-27(Tue) [디지털 커리어 인사이트](https://velog.io/@chhaewxn/TIL-0627-%EB%94%94%EC%A7%80%ED%84%B8-%EC%BB%A4%EB%A6%AC%EC%96%B4-%EC%9D%B8%EC%82%AC%EC%9D%B4%ED%8A%B8)
