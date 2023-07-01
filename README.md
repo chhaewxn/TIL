@@ -10,6 +10,7 @@
   - 2023-06-28(Wed) [영속성_관리](https://github.com/chhaewxn/TIL/blob/main/Springboot/%EC%98%81%EC%86%8D%EC%84%B1_%EA%B4%80%EB%A6%AC.md)
   - 2023-06-29(Thu) [영속성 관리_연관 관계 관리](https://github.com/chhaewxn/TIL/blob/main/Springboot/%EC%98%81%EC%86%8D%EC%84%B1%20%EA%B4%80%EB%A6%AC_%EC%97%B0%EA%B4%80%20%EA%B4%80%EA%B3%84%20%EA%B4%80%EB%A6%AC.md)
   - 2023-06-30(Fri) [빈_생명주기_콜백](https://github.com/chhaewxn/TIL/blob/main/Springboot/%EB%B9%88%20%EC%83%9D%EB%AA%85%EC%A3%BC%EA%B8%B0%20%EC%BD%9C%EB%B0%B1.md)
+  - 2023-07-02(Sun) [다양한 연관관계 매핑_다대일](https://github.com/chhaewxn/TIL/blob/main/Springboot/%EB%8B%A4%EC%96%91%ED%95%9C%20%EC%97%B0%EA%B4%80%EA%B4%80%EA%B3%84%20%EB%A7%A4%ED%95%91_%EB%8B%A4%EB%8C%80%EC%9D%BC.md)
 
 ## Deep Learning
 - CS231n
