@@ -1,0 +1,171 @@
+## 4. 다대다[N:N]
+
+관계형 데이터베이스는 정규화된 테이블 2개로 다대다 관계를 표현할 수 없다. 그래서 보통 다대다 관계를 일대다, 다대일 관계로 풀어내는 연결 테이블을 사용한다. 
+
+### 다대다 : 단방향
+🔻 다대다 단방향 회원
+```java
+@Entity
+public class Member {
+
+    @Id @Column(name = "MEMBER_ID")
+    private String id;
+    
+    private String username;
+    
+    @ManyToMany
+    @JoinTable(name = "MEMBER_PRODUCT",
+    joinColumns = @JoinColumn(name = "MEMBER_ID"),
+    inverseJoinColumns = @JoinColumn(name = "PRODUCT_ID"))
+    private List<Product> products = new ArrayList<Product>();
+    ...
+}
+```
+
+🔻 다대다 단방향 상품
+```java
+@Entity
+public class Product {
+
+    @Id @Column(name = "PRODUCT_ID")
+    private String id;
+    
+    private String name;
+    ...
+}
+```
+
+회원 엔티티와 상품 엔티티를 @ManyToMany로 매핑했다. 여기서 중요한 점은 @ManyToMany와 @JoinTable을 사용해서 연결 테이블로 바로 매핑한 것. 따라서 회원과 상품을 연결하는 회원_상품(Member_Product) 엔티티 없이 매핑을 완료할 수 있다.
+
+➕ 연결 테이블을 매핑하는 @JoinTable의 속성
+
+- @JoinTable.name : 연결 테이블을 지정했다. 여기서는 MEMBER_PRODUCT 테이블을 선택
+- @JoinTable.joinColumns : 현재 방향은 회원과 매핑할 조인 컬럼 정보를 지정한다. MEMBER_ID로 지정
+- @JoinTable.inverseJoinColumns : 반대 방향은 상품과 매핑할 조인 컬럼 정보를 지정한다. PRODUCT_ID로 지정
+
+🔻 저장
+```java
+public void save() {
+
+    Product productA = new Product();
+    productA.setId("productA");
+    productA.setName("상품A");
+    em.persist(productA);
+    
+    Member member1 = new Member();
+    member1.setId("member1");
+    member1.setUsername("회원1");
+    member1.getProducts(0.add(productA)  // 연관관계 설정
+    em.persist(member1);
+    
+}
+```
+
+회원1과 상품A의 연관관계를 설정했으므로 회원1을 저장할 때 연결 테이블에도 값이 저장된다. 따라서 이 코드를 실행하면 다음의 SQL이 실행된다.
+
+```sql
+INSERT INTO PRODUCT ...
+INSERT INTO MEMBER ...
+INSERT INTO MEMBER_PRODUCT ...
+```
+🔻 탐색
+```java
+public void find() {
+
+    Member member = em.find(Member.class, "member1");
+    List<Product> products = member.getProducts();  // 객체 그래프 탐색
+    for (Product product : products) {
+        System.out.println("product.name = " + product.getName());
+    }
+}
+```
+
+순서대로 저장한 후에 탐색해보면 저장해두었던 상품1이 조회된다.
+
+member.getProducts()를 호출해서 상품 이름을 출력하면 다음 SQL이 실행된다.
+```sql
+SELECT * FROM MEMBER_PRODUCT MP
+INNER JOIN PRODUCT P ON MP.PRODUCT_ID = P.PRODUCT_ID
+WHERE MP.MEMBER_ID=?
+```
+
+실행된 SQL을 보면 연결 테이블인 MEMBER_PRODUCT와 상품 테이블을 조인해서 연관된 상품을 조회한다.
+
+### 다대다 : 양방향
+아래 예제를 보면 다대다 매핑이므로 역방향 @ManyToMany를 사용한다. 그리고 양쪽 중 원하는 곳에 mappedBy로 연관관계의 주인을 지정
+
+🔻 역방향 추가
+```java
+@Entity
+public class Product {
+    
+    @Id
+    private String id;
+    
+    @ManyToMany(mappedBy = "products")  // 역방향 추가
+    private List<Member> members;
+    ...
+}
+```
+
+```java
+member.getProducts().add(product);
+members.getMembers().add(member);
+```
+양방향 연관관계는 연관관계 편의 메소드를 추가해서 관리하는 것이 편리하다. 다음처럼 회원 엔티티에 연관관계 편의 메소드를 추가하자.
+
+```java
+public void addProduct(Product product) {
+    ...
+    products.add(product);
+    product.getmembers().add(this);
+}
+```
+연관관계 편의 메소드를 추가했으므로 다음처럼 간단히 양방향 연관관계를 설정하면 된다.
+
+양방향 연관관계로 만들었으므로 product.getMembers()를 사용해서 역방향으로 객체 그래프를 탐색할 수 있다.
+
+🔻 역방향 탐색
+```java
+public void findInverse() {
+
+    Product product = em.find(Product.class, "productA");
+    List<Member> members = product.getMembers();
+    for (Member member : members) {
+        System.out.println("member = " + member.getUsername());
+    }
+}
+```
+
+### 다대다 : 매핑의 한계와 극복, 연결 엔티티 사용
+
+@ManyToMany를 사용하면 연결 테이블을 자동으로 처리해주므로 도메인 모델이 단순해지고 여러 가지로 편리하다. 하지만 이 매핑을 실무에서 사용하기에는 한계가 있다.
+
+🔻 복합 기본 키
+
+- 복합 키는 별도의 식별자 클래스로 만들어야 한다.
+- Serializable을 구현해야 한다.
+- equals와 hashCode 메소드를 구현해야 한다.
+- 기본 생성자가 있어야 한다.
+- 식별자 클래스는 public이어야 한다.
+- @IdClass를 사용하는 방법 외에 @EmbeddedId를 사용하는 방법도 있다.
+
+➕ 자바 IDE에는 대부분 equals, hashCode 메소드를 자동으로 생성해주는 기능이 있다.
+
+🔻 식별 관계
+
+회원상품은 회원과 상품의 기본 키를 받아서 자신의 기본 키로 사용한다. 이렇게 부모 테이블의 기본 키를 받아서 자신의 기본 키 + 외래 키로 사용하는 것을 데이터베이스 용어로 식별 관계(identifying Relationship)라 한다.
+
+종합해보면 회원상품(MemberProduct)은 회원의 기본 키를 받아서 자신의 기본 키로 사용함과 동시에 회원과의 관계를 위한 외래 키로 사용한다. 그리고 상품의 기본 키도 받아서 자신의 기본 키로 사용함과 동시에 상품과의 관계를 위한 외래 키로 사용한다. 또한 MemberProductId 식별자 클래스로 두 기본 키를 묶어서 복합 기본 키로 사용한다.
+
+### 다대다 : 새로운 기본 키 사용
+
+추천하는 기본 키 생성 전략은 데이터베이스에서 자동으로 생성해주는 대리 키를 Long 값으로 사용하는 것이다. 이것의 장점은 간편하고 거의 영구히 쓸 수 있으며 비즈니스에 의존하지 않는다. 그리고 ORM 매핑 시에 복합 키를 만들지 않아도 되므로 간단히 매핑을 완성할 수 있다.
+
+## 다대다 연관관계 정리
+다대다 관계를 일대다 다대일 관계로 풀어내기 위해 연결 테이블을 만들 때 식별자를 어떻게 구성할지 선택해야 한다.
+
+- 식별 관계 : 받아온 식별자를 기본 키 + 외래 키로 사용한다.
+- 비식별 관계 : 받아온 식별자는 외래 키로만 사용하고 새로운 식별자를 추가한다.
+
+⭐ 데이터베이스 설계에서는 1번처럼 부모 테이블의 기본 키를 받아서 자식 테이블의 기본 키 + 외래 키로 사용하는 것을 식별 관계라 하고, 2번처럼 단순히 외래키로만 사용하는 것을 비식별 관계라고 한다. 객체 입장에서 보면 2번처럼 비식별 관계를 사용하는 것이 복합 키를 위한 식별자 클래스를 만들지 않아도 되므로 단순하고 편리하게 ORM 매핑을 할 수 있다. 이런 이유로 식별 관계보다는 비식별 관계를 추천!
