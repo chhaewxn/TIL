@@ -25,3 +25,5 @@
   - 2023-06-27(Tue) [디지털 커리어 인사이트](https://velog.io/@chhaewxn/TIL-0627-%EB%94%94%EC%A7%80%ED%84%B8-%EC%BB%A4%EB%A6%AC%EC%96%B4-%EC%9D%B8%EC%82%AC%EC%9D%B4%ED%8A%B8)
 - IT 이슈
   - 2023-07-05(Wed) [GDSC IT Session_ChatGPT로 쿠버네티스 관리하는 방법](https://velog.io/@chhaewxn/GDSC-IT-Session-ChatGPT%EB%A1%9C-%EC%BF%A0%EB%B2%84%EB%84%A4%ED%8B%B0%EC%8A%A4-%EA%B4%80%EB%A6%AC%ED%95%98%EB%8A%94-%EB%B0%A9%EB%B2%95)
+- EFUB SWS
+  - 2023-07-08(SUN) [E-day(이데이) 프로젝트 시작!](https://velog.io/@chhaewxn/E-day%EC%9D%B4%EB%8D%B0%EC%9D%B4-%ED%94%84%EB%A1%9C%EC%A0%9D%ED%8A%B8-%EC%8B%9C%EC%9E%91)
