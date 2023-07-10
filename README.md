@@ -16,6 +16,7 @@
   - 2023-07-06(Thu) [다양한 연관관계 매핑_다대다](https://github.com/chhaewxn/TIL/blob/main/Springboot/%EB%8B%A4%EC%96%91%ED%95%9C%20%EC%97%B0%EA%B4%80%EA%B4%80%EA%B3%84%20%EB%A7%A4%ED%95%91_%EB%8B%A4%EB%8C%80%EB%8B%A4.md)
   - 2023-07-07(Fri) [빈 스코프](https://github.com/chhaewxn/TIL/blob/main/Springboot/%EB%B9%88%20%EC%8A%A4%EC%BD%94%ED%94%84.md)
   - 2023-07-09(Sun) [CI,CD & AWS 배포](https://github.com/chhaewxn/TIL/blob/main/Springboot/CI%2CCD%20%26%20AWS%20%EB%B0%B0%ED%8F%AC.md)
+  - 2023-07-10(Mon) [고급 매핑](https://github.com/chhaewxn/TIL/blob/main/Springboot/%EA%B3%A0%EA%B8%89%20%EB%A7%A4%ED%95%91.md)
     
 ## Deep Learning
 - CS231n
