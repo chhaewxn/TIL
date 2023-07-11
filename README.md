@@ -29,3 +29,4 @@
   - 2023-07-05(Wed) [GDSC IT Session_ChatGPT로 쿠버네티스 관리하는 방법](https://velog.io/@chhaewxn/GDSC-IT-Session-ChatGPT%EB%A1%9C-%EC%BF%A0%EB%B2%84%EB%84%A4%ED%8B%B0%EC%8A%A4-%EA%B4%80%EB%A6%AC%ED%95%98%EB%8A%94-%EB%B0%A9%EB%B2%95)
 - EFUB SWS
   - 2023-07-08(SUN) [E-day(이데이) 프로젝트 시작!](https://velog.io/@chhaewxn/E-day%EC%9D%B4%EB%8D%B0%EC%9D%B4-%ED%94%84%EB%A1%9C%EC%A0%9D%ED%8A%B8-%EC%8B%9C%EC%9E%91)
+  - 2023-07-11(Tue) [프로젝트 관리 - 이슈 발급](https://github.com/chhaewxn/TIL/blob/main/SWS/(SWS)%20%ED%94%84%EB%A1%9C%EC%A0%9D%ED%8A%B8%20%EA%B4%80%EB%A6%AC%20-%20%EC%9D%B4%EC%8A%88%20%EB%B0%9C%EA%B8%89.md)
