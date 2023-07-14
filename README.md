@@ -34,3 +34,4 @@
   - 2023-07-11(Tue) [프로젝트 관리 - 이슈 발급](https://github.com/chhaewxn/TIL/blob/main/SWS/(SWS)%20%ED%94%84%EB%A1%9C%EC%A0%9D%ED%8A%B8%20%EA%B4%80%EB%A6%AC%20-%20%EC%9D%B4%EC%8A%88%20%EB%B0%9C%EA%B8%89.md)
   - 2023-07-12(Wed) [SWS 오류1 - 인텔리제이에서 Class 파일 생성 불가](https://github.com/chhaewxn/TIL/blob/main/SWS/SWS%20%EC%98%A4%EB%A5%981%20-%20%EC%9D%B8%ED%85%94%EB%A6%AC%EC%A0%9C%EC%9D%B4%EC%97%90%EC%84%9C%20Class%20%ED%8C%8C%EC%9D%BC%20%EC%83%9D%EC%84%B1%20%EB%B6%88%EA%B0%80.md)
   - 2023-07-12(Wed) [SWS 오류2 - docker 작동시 포트 문제](https://github.com/chhaewxn/TIL/blob/main/SWS/SWS%20%EC%98%A4%EB%A5%982%20-%20docker%20%EC%9E%91%EB%8F%99%EC%8B%9C%20%ED%8F%AC%ED%8A%B8%20%EB%AC%B8%EC%A0%9C.md)
+  - 2023-07-15(Sat) [SWS - 추가정보API](https://github.com/chhaewxn/TIL/blob/main/SWS/%EC%B6%94%EA%B0%80%EC%A0%95%EB%B3%B4API.md)
