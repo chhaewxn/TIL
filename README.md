@@ -18,6 +18,7 @@
   - 2023-07-09(Sun) [CI,CD & AWS 배포](https://github.com/chhaewxn/TIL/blob/main/Springboot/CI%2CCD%20%26%20AWS%20%EB%B0%B0%ED%8F%AC.md)
   - 2023-07-10(Mon) [고급 매핑](https://github.com/chhaewxn/TIL/blob/main/Springboot/%EA%B3%A0%EA%B8%89%20%EB%A7%A4%ED%95%91.md)
   - 2023-07-13(Thu) [컨테이너, 빈, 의존성](https://github.com/chhaewxn/TIL/blob/main/Springboot/%EC%BB%A8%ED%85%8C%EC%9D%B4%EB%84%88%2C%20%EB%B9%88%2C%20%EC%9D%98%EC%A1%B4%EC%84%B1.md)
+  - 2023-07-14(Fri) [프로젝트 환경설정](https://github.com/chhaewxn/TIL/blob/main/Springboot/%ED%94%84%EB%A1%9C%EC%A0%9D%ED%8A%B8%20%ED%99%98%EA%B2%BD%EC%84%A4%EC%A0%95.md)
     
 ## Deep Learning
 - CS231n
