@@ -36,3 +36,4 @@
   - 2023-07-12(Wed) [SWS 오류2 - docker 작동시 포트 문제](https://github.com/chhaewxn/TIL/blob/main/SWS/SWS%20%EC%98%A4%EB%A5%982%20-%20docker%20%EC%9E%91%EB%8F%99%EC%8B%9C%20%ED%8F%AC%ED%8A%B8%20%EB%AC%B8%EC%A0%9C.md)
   - 2023-07-15(Sat) [SWS - 추가정보API](https://github.com/chhaewxn/TIL/blob/main/SWS/%EC%B6%94%EA%B0%80%EC%A0%95%EB%B3%B4API.md)
   - 2023-07-16(Sun) [SWS 오류3 - DB연결 문제](https://github.com/chhaewxn/TIL/blob/main/SWS/SWS%20%EC%98%A4%EB%A5%983%20-%20DB%EC%97%B0%EA%B2%B0%20%EB%AC%B8%EC%A0%9C.md)
+  - 2023-07-17(Mon) [SWS 오류4 - URL 경로 변수](https://velog.io/@chhaewxn/SWS-%EC%98%A4%EB%A5%984-URL-%EA%B2%BD%EB%A1%9C-%EB%B3%80%EC%88%98)
