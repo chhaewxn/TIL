@@ -73,4 +73,6 @@ public class QueryService {
 ![](https://velog.velcdn.com/images/chhaewxn/post/1710408c-9309-4604-9958-86e4bfc3a4fd/image.png)
 ![](https://velog.velcdn.com/images/chhaewxn/post/4d801e5a-acd5-4d15-8e21-e7a8a93ccec2/image.png)
 
+https://github.com/EFUB-EDAY/EDAY-BACK/issues/3
+
 이제 칭호 API만 남았다 .. ! 
