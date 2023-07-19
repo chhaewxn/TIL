@@ -21,7 +21,7 @@
   - 2023-07-14(Fri) [프로젝트 환경설정](https://github.com/chhaewxn/TIL/blob/main/Springboot/%ED%94%84%EB%A1%9C%EC%A0%9D%ED%8A%B8%20%ED%99%98%EA%B2%BD%EC%84%A4%EC%A0%95.md)
 
 ## HTTP
-- 2023-07-19(Wed)[모든 개발자를 위한 HTTP 웹 기본 지식 - HTTP 상태 코드](https://github.com/chhaewxn/TIL/blob/main/HTTP/%EB%AA%A8%EB%93%A0%20%EA%B0%9C%EB%B0%9C%EC%9E%90%EB%A5%BC%20%EC%9C%84%ED%95%9C%20HTTP%20%EC%9B%B9%20%EA%B8%B0%EB%B3%B8%20%EC%A7%80%EC%8B%9D%20-%20HTTP%20%EC%83%81%ED%83%9C%20%EC%BD%94%EB%93%9C.md)
+- 2023-07-19(Wed) [모든 개발자를 위한 HTTP 웹 기본 지식 - HTTP 상태 코드](https://github.com/chhaewxn/TIL/blob/main/HTTP/%EB%AA%A8%EB%93%A0%20%EA%B0%9C%EB%B0%9C%EC%9E%90%EB%A5%BC%20%EC%9C%84%ED%95%9C%20HTTP%20%EC%9B%B9%20%EA%B8%B0%EB%B3%B8%20%EC%A7%80%EC%8B%9D%20-%20HTTP%20%EC%83%81%ED%83%9C%20%EC%BD%94%EB%93%9C.md)
 
 ## Deep Learning
 - CS231n
