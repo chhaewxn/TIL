@@ -41,3 +41,4 @@
   - 2023-07-16(Sun) [SWS 오류3 - DB연결 문제](https://github.com/chhaewxn/TIL/blob/main/SWS/SWS%20%EC%98%A4%EB%A5%983%20-%20DB%EC%97%B0%EA%B2%B0%20%EB%AC%B8%EC%A0%9C.md)
   - 2023-07-17(Mon) [SWS 오류4 - URL 경로 변수](https://github.com/chhaewxn/TIL/blob/main/SWS/SWS%20%EC%98%A4%EB%A5%984%20-%20URL%20%EA%B2%BD%EB%A1%9C%20%EB%B3%80%EC%88%98.md)
   - 2023-07-18(Tue) [SWS 오류5 - 문의사항 API 오류 해결](https://github.com/chhaewxn/TIL/blob/main/SWS/SWS%20%EC%98%A4%EB%A5%985%20-%20%EB%AC%B8%EC%9D%98%EC%82%AC%ED%95%AD%20API%20%EC%98%A4%EB%A5%98%20%ED%95%B4%EA%B2%B0.md)
+  - 2023-07-20(Thu) [SWS 오류6 - 칭호 API 오류 해결](https://github.com/chhaewxn/TIL/blob/main/SWS/SWS%20%EC%98%A4%EB%A5%986%20-%20%EC%B9%AD%ED%98%B8%20API%20%EC%98%A4%EB%A5%98%20%ED%95%B4%EA%B2%B0.md)
