@@ -44,3 +44,4 @@
   - 2023-07-18(Tue) [SWS 오류5 - 문의사항 API 오류 해결](https://github.com/chhaewxn/TIL/blob/main/SWS/SWS%20%EC%98%A4%EB%A5%985%20-%20%EB%AC%B8%EC%9D%98%EC%82%AC%ED%95%AD%20API%20%EC%98%A4%EB%A5%98%20%ED%95%B4%EA%B2%B0.md)
   - 2023-07-20(Thu) [SWS 오류6 - 칭호 API 오류 해결](https://github.com/chhaewxn/TIL/blob/main/SWS/SWS%20%EC%98%A4%EB%A5%986%20-%20%EC%B9%AD%ED%98%B8%20API%20%EC%98%A4%EB%A5%98%20%ED%95%B4%EA%B2%B0.md)
   - 2023-07-22(Sat) [SWS 오류7 - 문의 API 오류 해결](https://github.com/chhaewxn/TIL/blob/main/SWS/SWS%20%EC%98%A4%EB%A5%987%20-%20%EB%AC%B8%EC%9D%98%20API%20%EC%98%A4%EB%A5%98%20%ED%95%B4%EA%B2%B0.md)
+  - 2023-07-24(Mon) [SWS - 스웨거(Swagger) 사용해보자](https://github.com/chhaewxn/TIL/blob/main/SWS/SWS%20-%20%EC%8A%A4%EC%9B%A8%EA%B1%B0(Swagger)%20%EC%82%AC%EC%9A%A9%ED%95%B4%EB%B3%B4%EC%9E%90.md)
