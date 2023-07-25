@@ -24,6 +24,7 @@
 - 2023-07-19(Wed) [모든 개발자를 위한 HTTP 웹 기본 지식 - HTTP 상태 코드](https://github.com/chhaewxn/TIL/blob/main/HTTP/%EB%AA%A8%EB%93%A0%20%EA%B0%9C%EB%B0%9C%EC%9E%90%EB%A5%BC%20%EC%9C%84%ED%95%9C%20HTTP%20%EC%9B%B9%20%EA%B8%B0%EB%B3%B8%20%EC%A7%80%EC%8B%9D%20-%20HTTP%20%EC%83%81%ED%83%9C%20%EC%BD%94%EB%93%9C.md)
 - 2023-07-21(Fri) [모든 개발자를 위한 HTTP 웹 기본 지식 - HTTP 일반 헤더](https://github.com/chhaewxn/TIL/blob/main/HTTP/%EB%AA%A8%EB%93%A0%20%EA%B0%9C%EB%B0%9C%EC%9E%90%EB%A5%BC%20%EC%9C%84%ED%95%9C%20HTTP%20%EC%9B%B9%20%EA%B8%B0%EB%B3%B8%20%EC%A7%80%EC%8B%9D%20-%20HTTP%20%EC%9D%BC%EB%B0%98%20%ED%97%A4%EB%8D%94.md)
 - 2023-07-23(Sun) [모든 개발자를 위한 HTTP 웹 기본 지식 - HTTP 헤더2 캐시와 조건부 요청](https://github.com/chhaewxn/TIL/blob/main/HTTP/%EB%AA%A8%EB%93%A0%20%EA%B0%9C%EB%B0%9C%EC%9E%90%EB%A5%BC%20%EC%9C%84%ED%95%9C%20HTTP%20%EC%9B%B9%20%EA%B8%B0%EB%B3%B8%20%EC%A7%80%EC%8B%9D%20-%20HTTP%20%ED%97%A4%EB%8D%942%20%EC%BA%90%EC%8B%9C%EC%99%80%20%EC%A1%B0%EA%B1%B4%EB%B6%80%20%EC%9A%94%EC%B2%AD.md)
+- 2023-07-25(Thu) [모든 개발자를 위한 HTTP 웹 기본 지식 - HTTP 메서드 활용](https://github.com/chhaewxn/TIL/blob/main/HTTP/%EB%AA%A8%EB%93%A0%20%EA%B0%9C%EB%B0%9C%EC%9E%90%EB%A5%BC%20%EC%9C%84%ED%95%9C%20HTTP%20%EC%9B%B9%20%EA%B8%B0%EB%B3%B8%20%EC%A7%80%EC%8B%9D%20-%20HTTP%20%EB%A9%94%EC%84%9C%EB%93%9C%20%ED%99%9C%EC%9A%A9.md)
 ## Deep Learning
 - CS231n
   - 2023-07-01(Sat) [Lecture1. Introduction and Historical Context](https://github.com/chhaewxn/TIL/blob/main/Deep%20Learning/CS231n/Lecture1.md)
