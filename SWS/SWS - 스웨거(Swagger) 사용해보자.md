@@ -15,21 +15,16 @@ implementation "io.springfox:springfox-boot-starter:3.0.0"
 implementation "io.springfox:springfox-swagger-ui:3.0.0"
 ```
 
+**+) 현재는 springfox가 중단되어서 springdocs를 이용해야한다!!**
+```java
+// Swagger
+implementation 'org.springdoc:springdoc-openapi-ui:1.6.6'
+implementation 'org.jetbrains:annotations:20.1.0'
+```
+
 ### SwaggerConfig.java 작성
 ```java
 package efub.eday.edayback.config;
-
-import org.springframework.context.annotation.Bean;
-import org.springframework.context.annotation.Configuration;
-
-import springfox.documentation.builders.ApiInfoBuilder;
-import springfox.documentation.builders.PathSelectors;
-import springfox.documentation.builders.RequestHandlerSelectors;
-import springfox.documentation.service.ApiInfo;
-import springfox.documentation.service.Contact;
-import springfox.documentation.spi.DocumentationType;
-import springfox.documentation.spring.web.plugins.Docket;
-import springfox.documentation.swagger2.annotations.EnableSwagger2;
 
 @Configuration
 @EnableSwagger2
