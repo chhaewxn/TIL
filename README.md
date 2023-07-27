@@ -20,6 +20,7 @@
   - 2023-07-13(Thu) [컨테이너, 빈, 의존성](https://github.com/chhaewxn/TIL/blob/main/Springboot/%EC%BB%A8%ED%85%8C%EC%9D%B4%EB%84%88%2C%20%EB%B9%88%2C%20%EC%9D%98%EC%A1%B4%EC%84%B1.md)
   - 2023-07-14(Fri) [프로젝트 환경설정](https://github.com/chhaewxn/TIL/blob/main/Springboot/%ED%94%84%EB%A1%9C%EC%A0%9D%ED%8A%B8%20%ED%99%98%EA%B2%BD%EC%84%A4%EC%A0%95.md)
   - 2023-07-26(Wed) [값 매핑](https://github.com/chhaewxn/TIL/blob/main/Springboot/%EA%B0%92%20%EB%A7%A4%ED%95%91.md)
+  - 2023-07-27(Thu) [스프링 DB 접근 기술](https://github.com/chhaewxn/TIL/blob/main/Springboot/%EC%8A%A4%ED%94%84%EB%A7%81%20DB%20%EC%A0%91%EA%B7%BC%20%EA%B8%B0%EC%88%A0.md)
 
 
 ## HTTP
