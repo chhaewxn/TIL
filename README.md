@@ -22,6 +22,7 @@
   - 2023-07-26(Wed) [값 매핑](https://github.com/chhaewxn/TIL/blob/main/Springboot/%EA%B0%92%20%EB%A7%A4%ED%95%91.md)
   - 2023-07-27(Thu) [스프링 DB 접근 기술](https://github.com/chhaewxn/TIL/blob/main/Springboot/%EC%8A%A4%ED%94%84%EB%A7%81%20DB%20%EC%A0%91%EA%B7%BC%20%EA%B8%B0%EC%88%A0.md)
   - 2023-07-28(Fri) [AOP](https://github.com/chhaewxn/TIL/blob/main/Springboot/AOP.md)
+  - 2023-07-30(Sun) [객체지향 쿼리언어(1)](https://github.com/chhaewxn/TIL/blob/main/Springboot/%EA%B0%9D%EC%B2%B4%EC%A7%80%ED%96%A5%20%EC%BF%BC%EB%A6%AC%EC%96%B8%EC%96%B4(1).md)
 
 
 ## HTTP
