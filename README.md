@@ -24,6 +24,7 @@
   - 2023-07-28(Fri) [AOP](https://github.com/chhaewxn/TIL/blob/main/Springboot/AOP.md)
   - 2023-07-30(Sun) [객체지향 쿼리언어(1)](https://github.com/chhaewxn/TIL/blob/main/Springboot/%EA%B0%9D%EC%B2%B4%EC%A7%80%ED%96%A5%20%EC%BF%BC%EB%A6%AC%EC%96%B8%EC%96%B4(1).md)
   - 2023-07-31(Mon) [객체지향 쿼리언어(2)](https://github.com/chhaewxn/TIL/blob/main/Springboot/%EA%B0%9D%EC%B2%B4%EC%A7%80%ED%96%A5%20%EC%BF%BC%EB%A6%AC%EC%96%B8%EC%96%B4(2).md)
+  - 2023-08-01(Tue) [회원 관리 예제](https://github.com/chhaewxn/TIL/blob/main/Springboot/%ED%9A%8C%EC%9B%90%20%EA%B4%80%EB%A6%AC%20%EC%98%88%EC%A0%9C.md)
 
 
 ## HTTP
