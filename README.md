@@ -38,6 +38,9 @@
 - CS231n
   - 2023-07-01(Sat) [Lecture1. Introduction and Historical Context](https://github.com/chhaewxn/TIL/blob/main/Deep%20Learning/CS231n/Lecture1.md)
 
+##  Data Base
+- 2023-08-03(Fri) [무결성 제약조건](https://github.com/chhaewxn/TIL/blob/main/DB/%EB%AC%B4%EA%B2%B0%EC%84%B1%20%EC%A0%9C%EC%95%BD%EC%A1%B0%EA%B1%B4.md)
+
 ## 기타
 - 강연&세미나
   - 2023-06-27(Tue) [디지털 커리어 인사이트](https://velog.io/@chhaewxn/TIL-0627-%EB%94%94%EC%A7%80%ED%84%B8-%EC%BB%A4%EB%A6%AC%EC%96%B4-%EC%9D%B8%EC%82%AC%EC%9D%B4%ED%8A%B8)
