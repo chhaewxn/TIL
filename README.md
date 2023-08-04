@@ -58,4 +58,6 @@
   - 2023-07-20(Thu) [SWS 오류6 - 칭호 API 오류 해결](https://github.com/chhaewxn/TIL/blob/main/SWS/SWS%20%EC%98%A4%EB%A5%986%20-%20%EC%B9%AD%ED%98%B8%20API%20%EC%98%A4%EB%A5%98%20%ED%95%B4%EA%B2%B0.md)
   - 2023-07-22(Sat) [SWS 오류7 - 문의 API 오류 해결](https://github.com/chhaewxn/TIL/blob/main/SWS/SWS%20%EC%98%A4%EB%A5%987%20-%20%EB%AC%B8%EC%9D%98%20API%20%EC%98%A4%EB%A5%98%20%ED%95%B4%EA%B2%B0.md)
   - 2023-07-24(Mon) [SWS - 스웨거(Swagger) 사용해보자](https://github.com/chhaewxn/TIL/blob/main/SWS/SWS%20-%20%EC%8A%A4%EC%9B%A8%EA%B1%B0(Swagger)%20%EC%82%AC%EC%9A%A9%ED%95%B4%EB%B3%B4%EC%9E%90.md)
-  - 2023-07-29(Sat) [SWS E-Day(이데이) 백엔드 리드미 정리](https://github.com/chhaewxn/TIL/blob/main/SWS/SWS%20E-Day(%EC%9D%B4%EB%8D%B0%EC%9D%B4)%20%EB%B0%B1%EC%97%94%EB%93%9C%20README.md%20%EC%A0%95%EB%A6%AC.md) 
+  - 2023-07-29(Sat) [SWS E-Day(이데이) 백엔드 리드미 정리](https://github.com/chhaewxn/TIL/blob/main/SWS/SWS%20E-Day(%EC%9D%B4%EB%8D%B0%EC%9D%B4)%20%EB%B0%B1%EC%97%94%EB%93%9C%20README.md%20%EC%A0%95%EB%A6%AC.md)
+  - 2023-08-04(Fri) [SWS 오류8 - 디데이별 칭호 API 오류 해결
+](https://github.com/chhaewxn/TIL/blob/main/SWS/SWS%20%EC%98%A4%EB%A5%988%20-%20%EB%94%94%EB%8D%B0%EC%9D%B4%EB%B3%84%20%EC%B9%AD%ED%98%B8%20API%20%EC%98%A4%EB%A5%98%20%ED%95%B4%EA%B2%B0.md)
