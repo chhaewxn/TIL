@@ -27,6 +27,7 @@
   - 2023-08-01(Tue) [회원 관리 예제](https://github.com/chhaewxn/TIL/blob/main/Springboot/%ED%9A%8C%EC%9B%90%20%EA%B4%80%EB%A6%AC%20%EC%98%88%EC%A0%9C.md)
   - 2023-08-02(Wed) [SRP, DIP, OCP](https://github.com/chhaewxn/TIL/blob/main/Springboot/SRP%2C%20DIP%2C%20OCP.md)
   - 2023-08-06(Sun) [웹 애플리케이션 제작_프로젝트 환경설정](https://github.com/chhaewxn/TIL/blob/main/Springboot/%EC%9B%B9%20%EC%95%A0%ED%94%8C%EB%A6%AC%EC%BC%80%EC%9D%B4%EC%85%98%20%EC%A0%9C%EC%9E%91_%ED%94%84%EB%A1%9C%EC%A0%9D%ED%8A%B8%20%ED%99%98%EA%B2%BD%EC%84%A4%EC%A0%95.md)
+  - 2023-08-07(Mon) [웹 애플리케이션 제작_도메인 설계와 테이블 매핑](https://github.com/chhaewxn/TIL/blob/main/Springboot/%EC%9B%B9%20%EC%95%A0%ED%94%8C%EB%A6%AC%EC%BC%80%EC%9D%B4%EC%85%98%20%EC%A0%9C%EC%9E%91_%EB%8F%84%EB%A9%94%EC%9D%B8%20%EB%AA%A8%EB%8D%B8%EA%B3%BC%20%ED%85%8C%EC%9D%B4%EB%B8%94%20%EC%84%A4%EA%B3%84.md)
 
 
 ## HTTP
