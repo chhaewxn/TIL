@@ -44,6 +44,7 @@
 ##  Data Base
 - 2023-08-03(Thu) [무결성 제약조건](https://github.com/chhaewxn/TIL/blob/main/DB/%EB%AC%B4%EA%B2%B0%EC%84%B1%20%EC%A0%9C%EC%95%BD%EC%A1%B0%EA%B1%B4.md)
 - 2023-08-05(Sat) [관계 대수와 SQL](https://github.com/chhaewxn/TIL/blob/main/DB/%EA%B4%80%EA%B3%84%20%EB%8C%80%EC%88%98%EC%99%80%20SQL.md)
+- 2023-08-09(Wed) [관계 대수와 SQL(2)](https://github.com/chhaewxn/TIL/blob/main/DB/%EA%B4%80%EA%B3%84%20%EB%8C%80%EC%88%98%EC%99%80%20SQL(2).md)
 
 ## 기타
 - 강연&세미나
