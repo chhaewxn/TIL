@@ -50,6 +50,7 @@
 - 2023-08-12(Sat) [데이터 모델링의 이해(2)](https://github.com/chhaewxn/TIL/blob/main/DB/%EB%8D%B0%EC%9D%B4%ED%84%B0%20%EB%AA%A8%EB%8D%B8%EB%A7%81.md)
 - 2023-08-14(Mon) [과목1 데이터 모델링의 이해 문제풀이](https://github.com/chhaewxn/TIL/blob/main/DB/%EA%B3%BC%EB%AA%A91%20%EB%8D%B0%EC%9D%B4%ED%84%B0%20%EB%AA%A8%EB%8D%B8%EB%A7%81%EC%9D%98%20%EC%9D%B4%ED%95%B4%20%EB%AC%B8%EC%A0%9C%ED%92%80%EC%9D%B4.md)
 - 2023-08-15(Tue) [오라클과 MySQL](https://github.com/chhaewxn/TIL/blob/main/DB/%EC%98%A4%EB%9D%BC%ED%81%B4%EA%B3%BC%20MySQL.md)
+- 2023-08-16(Wed) [SQL 기본 및 활용(1)](https://github.com/chhaewxn/TIL/blob/main/DB/SQL%20%EA%B8%B0%EB%B3%B8%20%EB%B0%8F%20%ED%99%9C%EC%9A%A9(1).md)
 
 ## 기타
 - 강연&세미나
