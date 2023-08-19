@@ -53,6 +53,7 @@
 - 2023-08-16(Wed) [SQL 기본 및 활용(1)](https://github.com/chhaewxn/TIL/blob/main/DB/SQL%20%EA%B8%B0%EB%B3%B8%20%EB%B0%8F%20%ED%99%9C%EC%9A%A9(1).md)
 - 2023-08-17(Thu) [SQL 기본 및 활용(2)](https://github.com/chhaewxn/TIL/blob/main/DB/SQL%20%EA%B8%B0%EB%B3%B8%20%EB%B0%8F%20%ED%99%9C%EC%9A%A9(2).md)
 - 2023-08-18(Fri) [SQL 기본 및 활용(3)](https://github.com/chhaewxn/TIL/blob/main/DB/SQL%20%EA%B8%B0%EB%B3%B8%20%EB%B0%8F%20%ED%99%9C%EC%9A%A9(3).md)
+- 2023-08-19(Sat) [과목2 SQL 기본 및 활용 문제풀이](https://github.com/chhaewxn/TIL/blob/main/DB/%EA%B3%BC%EB%AA%A92%20SQL%20%EA%B8%B0%EB%B3%B8%20%EB%B0%8F%20%ED%99%9C%EC%9A%A9%20%EB%AC%B8%EC%A0%9C%ED%92%80%EC%9D%B4.md)
 
 ## 기타
 - 강연&세미나
