@@ -60,6 +60,7 @@
 
 ## Fintech
 - 2023-08-21(Mon) [금융데이터 활용 핀테크 AI 모델링 구현 실습 1일차](https://github.com/chhaewxn/TIL/blob/main/Fintech/%EA%B8%88%EC%9C%B5%EB%8D%B0%EC%9D%B4%ED%84%B0%20%ED%99%9C%EC%9A%A9%20%ED%95%80%ED%85%8C%ED%81%AC%20AI%20%EB%AA%A8%EB%8D%B8%EB%A7%81%20%EA%B5%AC%ED%98%84%20%EC%8B%A4%EC%8A%B5%201%EC%9D%BC%EC%B0%A8.md)
+- 2023-08-22(Tue) [금융데이터 활용 핀테크 AI 모델링 구현 - 금융과 인공지능](https://github.com/chhaewxn/TIL/blob/main/Fintech/%EA%B8%88%EC%9C%B5%EB%8D%B0%EC%9D%B4%ED%84%B0%20%ED%99%9C%EC%9A%A9%20%ED%95%80%ED%85%8C%ED%81%AC%20AI%20%EB%AA%A8%EB%8D%B8%EB%A7%81%20%EA%B5%AC%ED%98%84%20-%20%EA%B8%88%EC%9C%B5%EA%B3%BC%20%EC%9D%B8%EA%B3%B5%EC%A7%80%EB%8A%A5.md)
   
 ## 기타
 - 강연&세미나
