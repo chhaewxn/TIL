@@ -63,6 +63,7 @@
 - 2023-08-22(Tue) [금융데이터 활용 핀테크 AI 모델링 구현 - 금융과 인공지능](https://github.com/chhaewxn/TIL/blob/main/Fintech/%EA%B8%88%EC%9C%B5%EB%8D%B0%EC%9D%B4%ED%84%B0%20%ED%99%9C%EC%9A%A9%20%ED%95%80%ED%85%8C%ED%81%AC%20AI%20%EB%AA%A8%EB%8D%B8%EB%A7%81%20%EA%B5%AC%ED%98%84%20-%20%EA%B8%88%EC%9C%B5%EA%B3%BC%20%EC%9D%B8%EA%B3%B5%EC%A7%80%EB%8A%A5.md)
 - 2023-08-23(Wed) [금융데이터 활용 핀테크 AI 모델링 구현 - 분류모형(Classification Model)](https://github.com/chhaewxn/TIL/blob/main/Fintech/%EA%B8%88%EC%9C%B5%EB%8D%B0%EC%9D%B4%ED%84%B0%20%ED%99%9C%EC%9A%A9%20%ED%95%80%ED%85%8C%ED%81%AC%20AI%20%EB%AA%A8%EB%8D%B8%EB%A7%81%20%EA%B5%AC%ED%98%84%20-%20%EB%B6%84%EB%A5%98%EB%AA%A8%ED%98%95(Classification%20Model).md)
 - 2023-08-24(Thu) [금융데이터 활용 핀테크 AI 모델링 구현 - 회귀모형(Regression Model)](https://github.com/chhaewxn/TIL/blob/main/Fintech/%EA%B8%88%EC%9C%B5%EB%8D%B0%EC%9D%B4%ED%84%B0%20%ED%99%9C%EC%9A%A9%20%ED%95%80%ED%85%8C%ED%81%AC%20AI%20%EB%AA%A8%EB%8D%B8%EB%A7%81%20%EA%B5%AC%ED%98%84%20-%20%ED%9A%8C%EA%B7%80%EB%AA%A8%ED%98%95(Regression%20Model).md)
+- 2023-08-25(Fri) [금융데이터 활용 핀테크 AI 모델링 구현 - 보험료 예측하기](https://github.com/chhaewxn/TIL/blob/main/Fintech/%EA%B8%88%EC%9C%B5%EB%8D%B0%EC%9D%B4%ED%84%B0%20%ED%99%9C%EC%9A%A9%20%ED%95%80%ED%85%8C%ED%81%AC%20AI%20%EB%AA%A8%EB%8D%B8%EB%A7%81%20%EA%B5%AC%ED%98%84%20%EC%8B%A4%EC%8A%B5%20-%20%EB%B3%B4%ED%97%98%EB%A3%8C%20%EC%98%88%EC%B8%A1%ED%95%98%EA%B8%B0.md)
   
 ## 기타
 - 강연&세미나
