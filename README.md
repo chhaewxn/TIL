@@ -57,6 +57,7 @@
 - 2023-08-17(Thu) [SQL 기본 및 활용(2)](https://github.com/chhaewxn/TIL/blob/main/DB/SQL%20%EA%B8%B0%EB%B3%B8%20%EB%B0%8F%20%ED%99%9C%EC%9A%A9(2).md)
 - 2023-08-18(Fri) [SQL 기본 및 활용(3)](https://github.com/chhaewxn/TIL/blob/main/DB/SQL%20%EA%B8%B0%EB%B3%B8%20%EB%B0%8F%20%ED%99%9C%EC%9A%A9(3).md)
 - 2023-08-19(Sat) [과목2 SQL 기본 및 활용 문제풀이](https://github.com/chhaewxn/TIL/blob/main/DB/%EA%B3%BC%EB%AA%A92%20SQL%20%EA%B8%B0%EB%B3%B8%20%EB%B0%8F%20%ED%99%9C%EC%9A%A9%20%EB%AC%B8%EC%A0%9C%ED%92%80%EC%9D%B4.md)
+- 2023-08-28(Mon) [2장 SQL 활용(1)](https://github.com/chhaewxn/TIL/blob/main/DB/2%EC%9E%A5%20SQL%20%ED%99%9C%EC%9A%A9(1).md)
 
 ## Fintech
 - 2023-08-21(Mon) [금융데이터 활용 핀테크 AI 모델링 구현 실습 1일차](https://github.com/chhaewxn/TIL/blob/main/Fintech/%EA%B8%88%EC%9C%B5%EB%8D%B0%EC%9D%B4%ED%84%B0%20%ED%99%9C%EC%9A%A9%20%ED%95%80%ED%85%8C%ED%81%AC%20AI%20%EB%AA%A8%EB%8D%B8%EB%A7%81%20%EA%B5%AC%ED%98%84%20%EC%8B%A4%EC%8A%B5%201%EC%9D%BC%EC%B0%A8.md)
